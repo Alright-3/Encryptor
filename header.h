@@ -16,31 +16,7 @@ string stringToBinary(string str);
 string binaryToString(string str);
 char binaryToChar(string bin);
 
-const string KEY = "cat";
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+const string KEY = "ilovelucy";
 
 #define HEADER_H
 #endif // !HEADER_H
